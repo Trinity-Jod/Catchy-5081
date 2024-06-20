@@ -1,7 +1,6 @@
-# Catchy-5081
-A Github-Repo of Catchy#5081
-
-This Repo Is On Development
-
-TOP.GG : https://top.gg/bot/956551837274751016/vote
-Catchy HQ : https://discord.gg/VabwHrcpVR
+<div align="center">
+  <h1>Catchy HQ</h1>
+  <a href="https://discord.gg/VabwHrcpVR">
+    <img src="https://discordapp.com/api/guilds/959611774498390127/embed.png" alt="Discord" />
+  </a>
+</div>
