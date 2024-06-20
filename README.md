@@ -8,3 +8,9 @@
 ## Catchy#5081
 
 Repository for the [Catchy](https://top.gg/bot/956551837274751016/vote)
+
+## Support:
+
+### <a href="https://discord.gg/VabwHrcpVR">`Catchy HQ`</a>
+
+### <a href="https://top.gg/bot/956551837274751016/vote">`TOP.GG`</a>
